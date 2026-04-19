@@ -37,4 +37,4 @@ Atualmente, estou mergulhando no mundo da Segurança da Informação, com foco e
 
 ### 📂 Meus Projetos em Destaque
 **Sistema de Reserva de Assentos de Cinema:** Seleção de Assentos | Validação de Ocupação | Cálculo de Receita | Visualização do Mapa da Sala
-(Estou começando agora, esse é só o primeiro de muitos projetos razoavelmente grandes. Estou sempre disposto a aprender)
+(Estou começando agora, Esse é só o primeiro de muitos projetos. Estou sempre aprendendo)
